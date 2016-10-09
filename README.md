@@ -5,11 +5,11 @@ This is a simple command line tool to encrypt sensitive information before sendi
 The tool uses RSA Public Key Cryptography to encrypt a randomly generated symmetric key,
  which then uses to encrypt the data with the AES block cipher.
 
-## Requrements
+## Requirements
 
 To use this tool you need:
 
-1. Unit-like system
+1. a unix-like environment (unix, linux, osx or putty, cygwin)
 2. openssl
 3. tar
 
