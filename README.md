@@ -23,3 +23,10 @@ Encrypting the data is as simple as running the following command:
 ```
 
 The product of this script is an archive named enc_data_bundle.tar.gz and placed in the current directory.
+
+## Dencrypt data (for Helvia admins)
+To decrypt the archive created with the encrypt command of this tool, run:
+
+```
+./decrypt.sh <path_to_archive_containing_the_data> <path_to_helviaprivate_rsa_key>
+```
