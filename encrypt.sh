@@ -33,7 +33,7 @@ tar czf ./enc_data_bundle.tar.gz -C ./helvia-workspace data.tar.gz.enc symmetric
 
 echo "
 ==========================================================================================
-Data encryption completed! Please send the file 'enc_data_bundle.tar.gz' to info@helvia.io
+Data encryption completed! Please send the file 'enc_data_bundle.tar.gz' to Helvia.io
 ==========================================================================================
 "
 
